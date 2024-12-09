@@ -4,18 +4,23 @@ This is a React Native app that provides user authentication with login and sign
 ## How to Run the Project
 
 **Clone the repository:**
+
    git clone https://github.com/arjunjaver/Login_SignUp_App-React-Native.git
+
    cd Login_SignUp_App-React-Native
 
 **Install dependencies:**
+
 If you haven't installed Expo CLI, install it using:
 
 npm install -g expo-cli
 
 
+
 **Then, install the project dependencies:**
 
 npm install
+
 
 
 **Run the app:**
