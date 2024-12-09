@@ -3,29 +3,39 @@ This is a React Native app that provides user authentication with login and sign
 
 ## How to Run the Project
 
-**Clone the repository:**
+**Clone the repository:**  
 
-   git clone https://github.com/arjunjaver/Login_SignUp_App-React-Native.git
+   git clone https://github.com/arjunjaver/Login_SignUp_App-React-Native.git  
 
-   cd Login_SignUp_App-React-Native
-
-**Install dependencies:**
-
-If you haven't installed Expo CLI, install it using:
-
-npm install -g expo-cli
+   cd Login_SignUp_App-React-Native  
 
 
+**Install dependencies:**  
 
-**Then, install the project dependencies:**
+If you haven't installed Expo CLI, install it using:  
 
-npm install
+
+npm install -g expo-cli    
 
 
 
-**Run the app:**
-Use the following command to start the Expo project:
-npx expo start
+
+**Then, install the project dependencies:**  
+
+
+npm install    
+
+
+
+
+
+**Run the app:**  
+
+Use the following command to start the Expo project:    
+
+
+npx expo start  
+
 
 Scan the QR code with Expo Go (Android) or the Camera app (iOS)
 
